@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laundro-mat
-- 👀 I’m interested in ... qbittorrent, freshtomato, keepassxc
+- 👀 I’m interested in ... qbittorrent, freshtomato, keepassxc, vpn
 - 🌱 I’m currently learning ... electronics, computer stuff
 - 💞️ I’m looking to collaborate on ... nothing yet, more here for guidance
 - 📫 How to reach me ... here on threads
